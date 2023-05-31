@@ -1,0 +1,12 @@
+C:\Users\sarvesh\source\repos\assignment\assignment.data\bin\Debug\net7.0\assignment.data.deps.json
+C:\Users\sarvesh\source\repos\assignment\assignment.data\bin\Debug\net7.0\assignment.data.dll
+C:\Users\sarvesh\source\repos\assignment\assignment.data\bin\Debug\net7.0\assignment.data.pdb
+C:\Users\sarvesh\source\repos\assignment\assignment.data\obj\Debug\net7.0\assignment.data.csproj.AssemblyReference.cache
+C:\Users\sarvesh\source\repos\assignment\assignment.data\obj\Debug\net7.0\assignment.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarvesh\source\repos\assignment\assignment.data\obj\Debug\net7.0\assignment.data.AssemblyInfoInputs.cache
+C:\Users\sarvesh\source\repos\assignment\assignment.data\obj\Debug\net7.0\assignment.data.AssemblyInfo.cs
+C:\Users\sarvesh\source\repos\assignment\assignment.data\obj\Debug\net7.0\assignment.data.csproj.CoreCompileInputs.cache
+C:\Users\sarvesh\source\repos\assignment\assignment.data\obj\Debug\net7.0\assignment.data.dll
+C:\Users\sarvesh\source\repos\assignment\assignment.data\obj\Debug\net7.0\refint\assignment.data.dll
+C:\Users\sarvesh\source\repos\assignment\assignment.data\obj\Debug\net7.0\assignment.data.pdb
+C:\Users\sarvesh\source\repos\assignment\assignment.data\obj\Debug\net7.0\ref\assignment.data.dll

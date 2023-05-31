@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "YvpG3VM0bsogdihfR+OkVJ3zpbF6ha4ht+n2ccwMty8=",
+  "Source": "assignment.UI",
+  "BasePath": "_content/assignment.UI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "assignment.UI\\wwwroot",
+      "Source": "assignment.UI",
+      "ContentRoot": "C:\\Users\\sarvesh\\source\\repos\\assignment\\assignment.UI\\wwwroot\\",
+      "BasePath": "_content/assignment.UI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\sarvesh\\source\\repos\\assignment\\assignment.UI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\assignment.UI.styles.css",
+      "SourceId": "assignment.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\sarvesh\\source\\repos\\assignment\\assignment.UI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/assignment.UI",
+      "RelativePath": "assignment.UI.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\sarvesh\\source\\repos\\assignment\\assignment.UI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\assignment.UI.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\sarvesh\\source\\repos\\assignment\\assignment.UI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\assignment.UI.bundle.scp.css",
+      "SourceId": "assignment.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\sarvesh\\source\\repos\\assignment\\assignment.UI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/assignment.UI",
+      "RelativePath": "assignment.UI.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\sarvesh\\source\\repos\\assignment\\assignment.UI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\assignment.UI.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\sarvesh\\source\\repos\\assignment\\assignment.UI\\wwwroot\\favicon.ico",
+      "SourceId": "assignment.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sarvesh\\source\\repos\\assignment\\assignment.UI\\wwwroot\\",
+      "BasePath": "_content/assignment.UI",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
